@@ -5,6 +5,9 @@ This repository contains the hardware design files for a custom ESP32-S3 develop
 
 The schematic and PCB layout were designed using **KiCad E.D.A**.
 
+Schematic:
+<img width="1198" height="833" alt="image" src="https://github.com/user-attachments/assets/efcbcad6-7cf7-4900-b546-e99f3f077d5b" />
+
 ## Hardware Features
 Based on the provided schematic, this development board includes:
 * **Microcontroller:** ESP32-S3-MINI-1 (Wi-Fi & Bluetooth LE).
