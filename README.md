@@ -27,7 +27,7 @@ For detailed specifications on the core components and reference designs, please
 * [ESP32-S3-DevKitM-1 Schematic (PDF)](#)
 * [ESP32-S3-DevKitM-1 PCB layout (PDF)](#)
 * [ESP32-S3-DevKitM-1 Dimensions (PDF)](#)
-* [ESP32-S3-DevKitM-1 Dimensions source file (DXF)](#) - *Note: You can view this file online using the [Autodesk Viewer](https://viewer.autodesk.com/).*
+* [ESP32-S3-DevKitM-1 Dimensions source file (DXF)](#) 
 
 ## Repository Structure
 * `/Hardware` - KiCad project files (`.pro`, `.sch`, `.kicad_pcb`).
