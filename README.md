@@ -9,7 +9,7 @@ Schematic:
 <img width="1198" height="833" alt="image" src="https://github.com/user-attachments/assets/efcbcad6-7cf7-4900-b546-e99f3f077d5b" />
 
 ## Hardware Features
-Based on the provided schematic, this development board includes:
+This development board includes:
 * **Microcontroller:** ESP32-S3-MINI-1 (Wi-Fi & Bluetooth LE).
 * **USB Interface:** USB Type-C receptacle with dedicated ESD protection (D3V3XA4B10LP).
 * **Power Management:** 5V to 3.3V LDO regulator (TLV75801PDBV) with a dedicated power indicator LED.
