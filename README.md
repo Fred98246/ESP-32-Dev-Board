@@ -1,12 +1,21 @@
 # Custom ESP32-S3-MINI-1 Development Board
 
 ## Overview
-This repository contains the hardware design files for a custom ESP32-S3 development board. Built around the **ESP32-S3-MINI-1** module, this board is designed for flexible IoT development. It integrates onboard environmental sensing and status indicators, making it an excellent foundation for projects like automated smart plant watering systems or custom home automation nodes.
+This repository contains the hardware design files for a custom ESP32-S3 4 layer development board. Built around the **ESP32-S3-MINI-1** module, this board is designed for flexible IoT development. 
 
-The schematic and PCB layout were designed using **KiCad E.D.A**.
+The schematic and PCB layout were designed using **KiCad V6 E.D.A**.
 
 Schematic:
 <img width="1198" height="833" alt="image" src="https://github.com/user-attachments/assets/efcbcad6-7cf7-4900-b546-e99f3f077d5b" />
+
+PCB:
+<img width="523" height="772" alt="image" src="https://github.com/user-attachments/assets/bbfd6591-d9d9-4ae9-8870-f7a88c7fe318" />
+
+Layers:
+<img width="371" height="857" alt="image" src="https://github.com/user-attachments/assets/38476eeb-6866-48b2-99e3-80cc236d0dc6" />
+<img width="368" height="861" alt="image" src="https://github.com/user-attachments/assets/5377ce9c-0289-403e-a2ea-8557695463e2" />
+<img width="368" height="861" alt="image" src="https://github.com/user-attachments/assets/31ec5dd8-0270-42f6-8e5d-6bf97868840c" />
+<img width="350" height="844" alt="image" src="https://github.com/user-attachments/assets/1b146fd5-8457-478c-9647-7610f43fb4da" />
 
 ## Hardware Features
 This development board includes:
